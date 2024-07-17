@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\dayOne\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\clones\\test-repo\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\dayOne\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\clones\\test-repo\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Chidiebere\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\dayOne\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Chidiebere\\Documents\\coding\\Ope\\clones\\test-repo\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chidiebere\\AppData\\Roaming\\NuGet\\NuGet.Config"
